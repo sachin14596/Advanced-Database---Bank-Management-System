@@ -4,7 +4,7 @@ The Bank Management System is a secure, scalable database solution for efficient
 ### 🔍 Project Overview
 This project entailed the design, development, and implementation of a relational database system tailored to manage the core functionalities of a bank. The system covers critical aspects like unique customer identification, role-based access control, secure transaction recording, and efficient data handling.
 
-### Key Features:
+### 🌟 Key Features:
 Unique Identification: SSN and Customer ID for secure identification.
 Comprehensive Entity Design: Entities like Customers, Accounts, Loans, Employees, Services, and ATMs.
 Regulatory Compliance: Data retention, audit trails, and transaction monitoring.
@@ -24,7 +24,7 @@ Ensured data security and integrity through robust auditing and encryption.
 Implemented a flexible, scalable system adhering to modern banking standards.
 Successfully managed real-life banking scenarios, such as simultaneous deposits and withdrawals, maintaining data accuracy.
 
-# 🚀 Future Scope
+### 🚀 Future Scope
 AI Integration: Incorporate machine learning for fraud detection and predictive analytics.
 Enhanced Security: Implement biometric authentication and blockchain for immutable records.
 Mobile and Web Applications: Expand system usability through user-friendly interfaces.
